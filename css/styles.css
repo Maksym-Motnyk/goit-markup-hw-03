@@ -180,7 +180,7 @@ img {
   padding-right: 156px;
 }
 .section-list-item {
-  flex-basis: calc((100% - 3 * 24px) / 4);
+  flex-basis: calc((100% - 72px) / 4);
 }
 .visually-hidden {
   position: absolute;
