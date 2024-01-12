@@ -283,6 +283,8 @@ img {
   border-top: none;
 }
 .portfolio-item {
+  border: 1px solid var(--CORNFLOWER, #e7e9fc);
+  background: var(--WHITE, #fff);
   width: calc((100% - 48px) / 3);
 }
 
