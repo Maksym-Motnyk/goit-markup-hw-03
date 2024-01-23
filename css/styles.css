@@ -110,7 +110,7 @@ img {
 
 /* Section1 */
 .hero-container {
-  padding: 188px 472px 292px 472px;
+  margin: 0 auto;
 }
 
 .hero-section {
@@ -127,6 +127,7 @@ img {
   letter-spacing: 0.02em;
   margin-bottom: 48px;
   max-width: 496px;
+  margin: 0 auto;
 }
 
 .hero-section-btn {
@@ -144,6 +145,8 @@ img {
   border: none;
   display: block;
   min-width: 169px;
+  margin: 0 auto;
+  margin-top: 48px;
 }
 .hero-section-btn:hover,
 .hero-section-btn:focus {
